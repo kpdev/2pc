@@ -10,9 +10,12 @@
     :numbered:
     :maxdepth: 3
     :caption: Содержание:
-    
+
     Introduction
     SyntaxAndSemantic
+    Variables
+    GenFunctions
+    ClanguageAnalogue
     More
     References
     Abbreviations
