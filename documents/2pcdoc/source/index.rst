@@ -12,7 +12,7 @@
     :caption: Содержание:
 
     Introduction
-    SyntaxAndSemantic
+    Structures
     Variables
     GenFunctions
     ClanguageAnalogue
