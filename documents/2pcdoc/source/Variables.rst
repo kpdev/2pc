@@ -80,5 +80,7 @@
 
 .. code-block:: c
 
+  struct T {} < a: int, b: double >;
+  struct T<int> t;
   int i = t<a>;
 
